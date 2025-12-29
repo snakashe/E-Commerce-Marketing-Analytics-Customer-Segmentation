@@ -1,0 +1,4 @@
+experiment_group,total_events,sessions,conversions,conversion_rate
+Control,1198404,556138,56855,10.22
+Variant_B,400183,300641,25227,8.39
+Variant_A,401413,301706,21045,6.98
